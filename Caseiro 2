@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXTINF: 1, Tigo Sports
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  Inglaterra vs Rumanía
+https://ft33pgzx58.azcdn728.net:8443/hls/rmfhl85k.m3u8?s=eK7xs9_xCQh9H7f8Pw8XvA&e=1623017939
+#EXTINF: 1, Bélgica vs Croacia
+https://ft33pgzx58.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=nXL-85RVv4uKP0qMuvX0Zw&e=1623017146
